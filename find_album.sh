@@ -8,7 +8,7 @@ echo -e "Chops & Rock - https://docs.google.com/spreadsheets/d/1CB4AvqRL90m9UL0d
 curl -L -s "https://docs.google.com/spreadsheets/d/1CB4AvqRL90m9UL0dXPw35Dia1br0_0v1ZFcPohq51CI/export?format=csv&gid=0" | grep -i "$query"
 echo -e "\n"
 
-echo -e "Insomo - https://docs.google.com/spreadsheets/d/1FS_xBceVVUJxUxmBKtEIr_kcojcQP2L6/\n"
+echo -e "Insomnio - https://docs.google.com/spreadsheets/d/1FS_xBceVVUJxUxmBKtEIr_kcojcQP2L6/\n"
 curl -L -s "https://docs.google.com/spreadsheets/d/1FS_xBceVVUJxUxmBKtEIr_kcojcQP2L6/export?format=csv&gid=448469524" | grep -i "$query"
 echo -e "\n"
 
